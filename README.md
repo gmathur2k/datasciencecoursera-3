@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data Science Rep for Coursera Signature Track
+Data Science Repo for Coursera Signature Track
